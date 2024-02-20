@@ -203,6 +203,7 @@ font-weight: 500;
     color: #2e2f42;
     text-align: center;
     padding: 32px 0;
+    margin-bottom: 8px;
 }
 .profession {
     line-height: 1.5;
@@ -211,7 +212,7 @@ font-weight: 500;
     color: #434455;
     text-align: center;
     padding: 8px 0;
-    margin-bottom: 8px
+    
 }
 .portfolio-info {
         font-size: 36px;
